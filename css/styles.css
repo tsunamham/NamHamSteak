@@ -1,9 +1,9 @@
 body {
-    background-color: #000;
+    background-color: rgb(238, 225, 225);
   }
   
   .divider {
-    background-color: #eee;
+    background-color: rgb(238, 225, 225);
   }
   #intro {
     background-image: url("../img/intro.jpg");
